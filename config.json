@@ -1,0 +1,16 @@
+{
+    "discord": {
+        "token": "MTEyMjQ4ODQyNTU1MjAzMTgyNA.GaHt3H.nAgMwKt9zHulqS0atwelG07gArXzvoNU5Z24Bw",
+        "client": {
+            "id": "1122488425552031824",
+            "secret": "Y1wDLxTUi--ELugl9kSrt8UfepcB2vbL"
+        }
+    },
+    "dbd": {
+        "port": 80,
+        "domain": "http://localhost",
+        "redirectUri": "https://discord.com/api/oauth2/authorize?client_id=1122488425552031824&permissions=8&scope=bot%20applications.commands",
+        "license": " a77d2aa8-03cd-4565-88a5-6323369c2341",
+        "ownerIDs": ["931189125833453608"]
+    }
+}
